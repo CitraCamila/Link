@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_Bulan</name>
+   <tag></tag>
+   <elementGuidId>ffe3d69a-0c72-44ca-b20b-6c19af45c50c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPickersCalendarHeader-switchHeader</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='click-select']/div[3]/div/div/div[2]/div/div/div/div/div/div)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPickersCalendarHeader-switchHeader</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OktNovember 2021Des</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;click-select&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper MuiDrawer-paperAnchorBottom MuiPaper-elevation16&quot;]/div[@class=&quot;jss257 jss258&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;MuiPickersStaticWrapper-staticWrapperRoot&quot;]/div[@class=&quot;MuiPickersBasePicker-container&quot;]/div[@class=&quot;MuiPickersBasePicker-pickerView&quot;]/div[1]/div[@class=&quot;MuiPickersCalendarHeader-switchHeader&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='click-select']/div[3]/div/div/div[2]/div/div/div/div/div/div)[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tanggal Dihubungi'])[1]/following::div[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[18]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div/div[2]/div/div/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
